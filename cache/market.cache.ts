@@ -28,7 +28,7 @@ export class MarketCache {
 
     for (const account of accounts) {
       const market = MINIMAL_MARKET_STATE_LAYOUT_V3.decode(account.account.data);
-      this.keys.set(account.pubkey.toString(), market);
+      this.keys.set(account.pubkey.toString(), market); 
     }
 
     logger.debug({}, `Cached ${this.keys.size} markets`);
