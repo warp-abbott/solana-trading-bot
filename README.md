@@ -25,7 +25,7 @@ To better promote and optimize our latest version, we are launching a limited-ti
 •	Your referred friends can also participate, the more you refer, the bigger the rewards!
 > Note: This feature is disabled by default.
 
-📅  Campaign ends on: October 1, 2025
+📅  Campaign ends on: November 1, 2025
 
 💵  Once you’ve completed the conditions, please add my Discord to claim your reward: `warp_abbott`
 
