@@ -1,4 +1,4 @@
-![](readme/warp.png)
+![](readme/warp.png)  
 
 # Solana Trading Bot (RC)
 
