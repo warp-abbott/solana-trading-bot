@@ -178,7 +178,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 - If it helps you, please leave a star🌟. It will have a positive impact on future maintenance.
 
-- If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support. Discord: `warp_abbott`
+- If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support. Discord: `warp_abbott` 
 
 ## Disclaimer
 
